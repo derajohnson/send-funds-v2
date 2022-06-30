@@ -1,0 +1,32 @@
+* {
+    font-family: 'Bellota', cursive;
+  
+  }
+  
+  button {
+      color: white;
+    padding: 10px 30px;
+    font-size: 1.3em;
+    background: transparent;
+    border-radius: 50px;
+    border: 1px solid white;
+    margin: 10px auto 0;
+    cursor: pointer;
+    opacity: 0.7;
+    font-weight: bold;
+  }
+  
+  .form {
+      text-align: center;
+      margin: 60px auto 40px;
+  }
+  
+  input {
+      border: 1px solid #fff;
+      padding: 8px 13px;
+      border-radius: 50px;
+      width: 30%;
+      margin-bottom: 20px;
+      font-weight: bold;
+      font-size: 18px;
+  }

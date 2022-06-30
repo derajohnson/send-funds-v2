@@ -1,0 +1,62 @@
+body{
+    background: rgb(100,0,123);
+    background: radial-gradient(circle, rgba(100,0,123,1) 0%, rgba(62,20,86,1) 100%);
+    color: #fff;
+    margin: 2px 40px;
+    font-family: 'Bellota', cursive;
+  }
+
+  .content {
+    text-align: center;
+    margin: 160px auto 40px;
+  }
+
+  .description {
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .connect-btn {
+    color: white;
+  padding: 10px 30px;
+  font-size: 1.3em;
+  background: transparent;
+  border-radius: 50px;
+  border: 1px solid white;
+  margin: 10px auto 0;
+  cursor: pointer;
+  opacity: 0.7;
+  font-family: 'Bellota', cursive;
+  font-weight: bold;
+  }
+
+.nav {
+  border-bottom: 1px solid #fff;
+}
+
+.nav h1 {
+  margin-bottom: 0;
+  text-align: left;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  place-items: flex-end;
+}
+
+.nav p {
+  margin: 3px 0;
+}
+
+.connected-wallet {
+  margin: 70px auto 40px;
+
+}
+
+.wallet-address {
+  border: 1px solid #fff;
+  padding: 2px 15px;
+  border-radius: 50px;
+}

@@ -1,0 +1,17 @@
+.transaction-container {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+}
+
+.transactions{
+    background-color: #ffffff;
+    color: black;
+    padding: 0 10px;
+    border-radius: 10px;
+}
